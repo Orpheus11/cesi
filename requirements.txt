@@ -1,0 +1,7 @@
+fabric
+paramiko
+ipython
+requests
+cython
+mistune
+python-jenkins
