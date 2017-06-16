@@ -1,4 +1,1 @@
-fabric
-paramiko
-requests
-python-jenkins
+flask
