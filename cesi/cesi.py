@@ -3,7 +3,7 @@ import ConfigParser
 from datetime import datetime, timedelta
 from flask import jsonify
 
-CONFIG_FILE = "/etc/cesi.conf"
+CONFIG_FILE = "etc/cesi.conf"
 class Config:
     
     def __init__(self, CFILE):
